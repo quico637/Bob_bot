@@ -1,2 +1,3 @@
 # Bob_bot
-Very basic beginner telegram bot
+In progress...
+Very Basic beginner telegram bot
